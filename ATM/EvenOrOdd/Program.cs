@@ -8,5 +8,6 @@ if (num % 2 == 0)
 else
 {
     Console.Clear();
+
     Console.WriteLine($"{num} no es par");
 }
