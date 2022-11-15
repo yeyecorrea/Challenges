@@ -7,6 +7,7 @@
         private int _year;
         private int _month;
         private int _day;
+        private int _day2;
 
         // Constructor de la clase
         public Date(int year, int month, int day)
