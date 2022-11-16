@@ -7,9 +7,9 @@
         private int _year;
         private int _month;
         private int _day;
-
+        private int _Hour;
         // Constructor de la clase
-        public Date(int year, int month, int day)
+        public Date(int year, int month, int day,int Hour)
         {
             _year = year;
             _month = ChekMount(month);
